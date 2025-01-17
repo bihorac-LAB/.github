@@ -28,7 +28,7 @@ Paper | Journal/Conference
 ### Healthcare Data Standards and Informatics
 Paper | Journal/Conference
 --- | --- 
-[Fast Healthcare Interoperability Resources Data Standards: Scoping Review](https://medinform.jmir.org/2023/1/e48297/) | JMIR Medical Informatics, 2023
+[Fast Healthcare Interoperability Resources Data Standards: Scoping Review](https://medinform.jmir.org/2022/7/e35724) | JMIR Medical Informatics, 2023
 [Machine Learning–Enabled Clinical Information Systems Using Fast Healthcare Interoperability Resources Data Standards: Scoping Review](https://medinform.jmir.org/2023/1/e48297/) | JMIR Medical Informatics, 2023
 [Electronic Health Record Data Quality and Performance Assessments: Scoping Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9829260/) | JMIR Medical Informatics, 2024
 
