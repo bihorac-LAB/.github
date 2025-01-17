@@ -6,7 +6,7 @@
 
 Project | Description | Link
 ------- | ----------- | ---- 
-iSDoH | iSDoH is the abbreviation of Intelligent Social and Environmental Determinants of Health | [iSDoHgit](https://github.com/Prisma-pResearch/iSDoH) 
+iSDoH | iSDoH is the abbreviation of Intelligent Social and Environmental Determinants of Health | [iSDoH](https://github.com/Prisma-pResearch/iSDoH) 
 
 
 
