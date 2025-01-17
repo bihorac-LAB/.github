@@ -42,9 +42,8 @@ Paper | Journal/Conference
 ### Kidney-Related Research
 Paper | Journal/Conference
 --- | --- 
-[Challenges in Pharmacovigilance: Variability in the Criteria for Determining Drug-Associated Acute Kidney Injury in Retrospective, Observational Studies](https://pubmed.ncbi.nlm.nih.gov/37607496/) | Nephron, 2023
 [Intraoperative hypotension and postoperative acute kidney injury: A systematic review](https://pubmed.ncbi.nlm.nih.gov/38383166/) | The American Journal of Surgery, 2024
-[Development and validation of a race-agnostic computable phenotype for kidney health in adult hospitalized patients](https://pubmed.ncbi.nlm.nih.gov/36440460/) | PLOS One, 2024
+
 
 
 ### Clinical Trial Design and Diversity
