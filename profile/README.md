@@ -20,7 +20,6 @@ iSDoH | iSDoH is the abbreviation of Intelligent Social and Environmental Determ
 ### Artificial Intelligence/Machine Learning in Healthcare
 Paper | Journal/Conference
 --- | --- 
-Multi-dimensional patient acuity estimation with longitudinal EHR tokenization and flexible transformer networks | Frontiers in Digital Health, 2022
 Dynamic predictions of postoperative complications from explainable, uncertainty-aware, and multi-task deep neural networks | Scientific Reports, 2023
 Overtriage, Undertriage, and Value of Care after Major Surgery: An Automated, Explainable Deep Learning-Enabled Classification System | Journal of the American College of Surgeons, 2023
 A deep learning-based dynamic model for predicting acute kidney injury risk severity in postoperative patients | Surgery, 2023
