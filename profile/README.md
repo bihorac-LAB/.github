@@ -23,7 +23,7 @@ Paper | Journal/Conference
 [Dynamic predictions of postoperative complications from explainable, uncertainty-aware, and multi-task deep neural networks](https://www.nature.com/articles/s41598-023-27418-5) | Scientific Reports, 2023
 [Overtriage, Undertriage, and Value of Care after Major Surgery: An Automated, Explainable Deep Learning-Enabled Classification System](https://pubmed.ncbi.nlm.nih.gov/36648256/) | Journal of the American College of Surgeons, 2023
 [Identifying acute illness phenotypes via deep temporal interpolation and clustering network on physiologic signatures](https://www.nature.com/articles/s41598-024-59047-x) | Scientific Reports, 2024
-[Community-engaged artificial intelligence research: A scoping review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10645628/) | PLOS Digital Health, 2024
+[Community-engaged artificial intelligence research: A scoping review](https://pubmed.ncbi.nlm.nih.gov/39178307/) | PLOS Digital Health, 2024
 
 ### Healthcare Data Standards and Informatics
 Paper | Journal/Conference
