@@ -1,9 +1,5 @@
 # [bihorac \LAB](https://prismap.medicine.ufl.edu/)
 
-<p align="center">
-  <img src="assets/logo.png" alt="Organization Logo" width="800"/>
-</p>
-
 
 
 ## Software libraries
