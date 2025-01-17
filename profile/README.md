@@ -37,7 +37,6 @@ Paper | Journal/Conference
 --- | --- 
 [Predictive Modeling for Readmission to Intensive Care: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/36699252/) | Critical Care Explorations, 2023
 [Postoperative Overtriage to an Intensive Care Unit Is Associated with Low Value of Care](https://pubmed.ncbi.nlm.nih.gov/35797553/) | Annals of Surgery, 2023
-[Resource use for cholecystectomy with versus without cholangiography: A multicenter, propensity-matched analysis](https://pubmed.ncbi.nlm.nih.gov/37188579/) | Surgery, 2023
 [Association of Sociodemographic Factors With Overtriage, Undertriage, and Value of Care After Major Surgery](https://pubmed.ncbi.nlm.nih.gov/38911666/) | Annals of Surgery Open, 2024
 
 ### Kidney-Related Research
